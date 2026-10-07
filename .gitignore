@@ -1,0 +1,10 @@
+# ملفات نظام وأدوات
+.DS_Store
+Thumbs.db
+node_modules/
+.vscode/
+*.log
+# لا ترفع أسرار أبدًا
+.env
+*.env
+*service_role*
